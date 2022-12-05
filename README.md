@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+rails new creators -c tailwind -j esbuild -d postgresql -T --main
